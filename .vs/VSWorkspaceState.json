@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\net",
+    "\\app\\src\\main\\java\\net\\simplifiedlearning",
+    "\\app\\src\\main\\java\\net\\simplifiedlearning\\sqlitecrudexample"
+  ],
+  "SelectedNode": "\\app\\src\\main\\java\\net\\simplifiedlearning\\sqlitecrudexample\\MainActivity.java",
+  "PreviewInSolutionExplorer": false
+}
